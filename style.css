@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+}
+
+.group {
+    text-align: center;
+}
+
+.pic {
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+}
+
+.char {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
